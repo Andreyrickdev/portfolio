@@ -146,3 +146,12 @@
         .projects-list section header .hamburger {
             display: none;
         }
+
+        .projects-list section #nav-of-all-projects {
+            padding: 20px;
+            background-color: #2b2b2c;
+            height: 440px;
+            overflow: auto;
+            border-bottom-left-radius: 2px;
+            border-bottom-right-radius: 2px;
+        }
