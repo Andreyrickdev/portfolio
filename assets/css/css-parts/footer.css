@@ -12,3 +12,9 @@
             display: grid;
             gap: 40px;
         }
+
+        .projects h1 {
+            font-size: 3rem;
+            text-align: center;
+            color: #E2E2E2;
+        }
