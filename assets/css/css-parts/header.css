@@ -141,3 +141,8 @@
         .toggle.dark .bxs-moon {
             color: #151d2a;
         }
+
+        .toggle.dark .ball {
+            background-color: #E2E2E2;
+            left:50px;
+        }
