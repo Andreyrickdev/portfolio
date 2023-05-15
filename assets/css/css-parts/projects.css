@@ -278,3 +278,7 @@
             border: 2px solid #1e1e1f;
             transition: 0.5s background-color;
         }
+
+        .bg-projects.light .projects-list section nav ul section input:hover {
+            background-color: #ed3238;
+        }
