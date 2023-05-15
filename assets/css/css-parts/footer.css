@@ -50,3 +50,7 @@
     footer section nav ul li input:hover {
         background-color: #ed3238;
     }
+
+    footer section .end-phrase {
+        font-size: 1.5rem;
+    } 
