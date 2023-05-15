@@ -82,3 +82,15 @@
     }
 
 }
+
+@media (max-width: 400px) {
+
+    .projects ul li div {
+        width: 200px;
+    }
+
+    .projects ul li p {
+        width:auto;
+    }
+
+}
