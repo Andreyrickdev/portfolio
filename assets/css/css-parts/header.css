@@ -6,3 +6,19 @@
         width: 100%;
         height: 62px;
     }
+
+    .header {
+        background-color: #1e1e1f;
+        max-width: 1500px;
+        display: flex;
+        justify-content: space-between;
+        place-items: center;
+        text-align: center;
+        width: 100%;
+        top:0;
+        color: #fff;
+        left:50%;
+        transform: translateX(-50%);
+        position: fixed;
+        z-index: 999;
+    }
