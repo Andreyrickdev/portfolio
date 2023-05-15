@@ -105,3 +105,28 @@
     }
 
 /*---light mode end----*/
+
+@media (max-width: 800px) {
+    
+    .bg-article .me {
+        width: 200px;
+        height: 200px;
+    }
+
+    .bg-article .about-me h1 {
+        font-size: 2rem;
+    }
+
+    .bg-article .about-me p {
+        font-size: 1.1rem;
+    }
+
+    .bg-article .about-me .contacts, .skills ul {
+        gap: 10px;
+    }
+
+    .bg-article .about-me ul li input{
+        padding: 10px 30px;
+        font-size: 1.1rem;
+    }
+}
