@@ -1,85 +1,85 @@
 /*---dark mode start (default)---*/
 
-.bg-article {
-    background-color: #1e1e1f;
-}
+    .bg-article {
+        background-color: #1e1e1f;
+    }
 
-.bg-article .about-me {
-    max-width: 900px;
-    margin: 0 auto;
-    display: grid;
-    gap: 20px;
-    grid-template-columns: auto 1fr;
-    align-items: center;
-    padding: 40px 0;
-    color: #E2E2E2;
-    align-content: center;
-}
+    .bg-article .about-me {
+        max-width: 900px;
+        margin: 0 auto;
+        display: grid;
+        gap: 20px;
+        grid-template-columns: auto 1fr;
+        align-items: center;
+        padding: 40px 0;
+        color: #E2E2E2;
+        align-content: center;
+    }
 
-.bg-article .about-me section {
-    max-width: 500px;
-    display: grid;
-    gap: 20px;
-}
+    .bg-article .about-me section {
+        max-width: 500px;
+        display: grid;
+        gap: 20px;
+    }
 
-.bg-article .me {
-    width: 300px;
-    height: 300px;
-}
+    .bg-article .me {
+        width: 300px;
+        height: 300px;
+    }
 
-.bg-article .me img {
-    border-radius: 50%;
-    height: auto;
-}
+    .bg-article .me img {
+        border-radius: 50%;
+        height: auto;
+    }
 
-.bg-article .about-me h1 {
-    font-size: 3rem;
-}
+    .bg-article .about-me h1 {
+        font-size: 3rem;
+    }
 
-.bg-article .about-me h1 span {
-    color: #ed3238;
-}
+    .bg-article .about-me h1 span {
+        color: #ed3238;
+    }
 
-.bg-article .about-me p {
-    font-size: 1.2rem;
-}
+    .bg-article .about-me p {
+        font-size: 1.2rem;
+    }
 
-.bg-article .about-me .contacts {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
+    .bg-article .about-me .contacts {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
 
-.bg-article .about-me .contacts li{
-    flex: 1;
-}
+    .bg-article .about-me .contacts li{
+        flex: 1;
+    }
 
-.bg-article .about-me ul li input{
-    padding: 10px 30px;
-    border-radius: 2px;
-    cursor: pointer;
-    font-size: 1.2rem;
-    color: #E2E2E2;
-    background-color: #1e1e1f;
-    border: 2px solid #E2E2E2;
-    width: 100%;
-    transition: 0.5s background-color;
-}
+    .bg-article .about-me ul li input{
+        padding: 10px 30px;
+        border-radius: 2px;
+        cursor: pointer;
+        font-size: 1.2rem;
+        color: #E2E2E2;
+        background-color: #1e1e1f;
+        border: 2px solid #E2E2E2;
+        width: 100%;
+        transition: 0.5s background-color;
+    }
 
-.bg-article .about-me ul li input:hover {
-    background-color: #ed3238;
-}
+    .bg-article .about-me ul li input:hover {
+        background-color: #ed3238;
+    }
 
-.bg-article .skills {
-    grid-column: 1/-1;
-    margin: 0 auto;
-    margin-top: 20px;
-}
+    .bg-article .skills {
+        grid-column: 1/-1;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
 
-.bg-article .skills ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
+    .bg-article .skills ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
 
 /*---dark mode end (default)----*/
