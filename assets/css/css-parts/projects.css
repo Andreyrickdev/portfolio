@@ -262,3 +262,8 @@
         .bg-projects.light .projects-list section #nav-of-all-projects {
             background-color: #C4C4C4;
         }
+
+        .bg-projects.light .projects-list section nav ul li section {
+            background-color: #C4C4C4;
+            color: #1e1e1f;
+        }
