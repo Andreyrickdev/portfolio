@@ -21,3 +21,8 @@
     display: grid;
     gap: 20px;
 }
+
+.bg-article .me {
+    width: 300px;
+    height: 300px;
+}
