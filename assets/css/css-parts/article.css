@@ -89,3 +89,7 @@
     .bg-article.light {
         background-color: #E2E2E2;
     }
+
+    .bg-article.light .about-me {
+        color: #1e1e1f;
+    }
