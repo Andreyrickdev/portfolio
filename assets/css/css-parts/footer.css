@@ -91,3 +91,23 @@
     }
 
 /*---light mode end---*/
+
+@media (max-width: 800px) {
+
+    footer section {
+        grid-template-columns: initial;
+    }
+
+    footer section nav ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    footer h1 {
+        font-size: 2rem;
+    }
+
+    footer .end-phrase {
+        font-size: 1rem;
+    }
+}
