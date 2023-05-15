@@ -119,3 +119,8 @@
         .toggle.light .bxs-moon {
             color: #151d2a;
         }
+
+        .toggle.light .ball {
+            background-color: #151d2a;
+            left:0;
+        }
