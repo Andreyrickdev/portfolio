@@ -85,3 +85,7 @@
 /*---dark mode end (default)----*/
 
 /*---light mode start---*/
+
+    .bg-article.light {
+        background-color: #E2E2E2;
+    }
