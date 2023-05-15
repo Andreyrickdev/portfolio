@@ -51,3 +51,7 @@
 /*---dark mode end (default)---*/
 
 /*---light mode start---*/
+
+    .bg-header.light {
+        background-color: #E2E2E2;
+    }
