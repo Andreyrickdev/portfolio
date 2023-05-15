@@ -73,3 +73,13 @@
 
 /*---button: chage modes---*/
 
+    .modes .toggle{
+        cursor: pointer;
+        position: relative;
+        display: flex;
+        padding: 10px 0px;
+        justify-content: space-between;
+        border-radius: 2px;
+        /*background: #151d2a;
+        box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;*/
+    }
