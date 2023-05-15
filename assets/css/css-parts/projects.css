@@ -234,3 +234,7 @@
             justify-self: center;
             transition: 0.5s background-color;
         }
+
+        .projects-list section nav ul section input:hover {
+            background-color: #ed3238;
+        }
