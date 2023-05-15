@@ -205,3 +205,9 @@
         .projects-list section nav ul section .infs-project .material-icons {
             display: none;
         }
+
+        .projects-list section nav ul section .infs-project .material-icons.active {
+            display: inline-block;
+            cursor: pointer;
+            user-select: none;
+        }
