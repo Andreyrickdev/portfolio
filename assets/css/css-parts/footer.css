@@ -79,3 +79,9 @@
     .bg-footer.light footer h1 {
         color: #1e1e1f;
     }
+
+    .bg-footer.light footer section nav ul li input {
+        color: #1e1e1f;
+        background-color: #E2E2E2;
+        border: 2px solid #1e1e1f;
+    }
