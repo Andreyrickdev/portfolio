@@ -71,3 +71,7 @@
     .bg-footer.light {
         background-color: #E2E2E2;
     }
+
+    .bg-footer.light footer {
+        color: #1e1e1f;
+    }
