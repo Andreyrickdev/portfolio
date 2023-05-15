@@ -170,6 +170,7 @@
 
 .figma-li:hover .fil0figma, .figma-li:hover .fil1figma {
     fill: #ed3238;
+    transition: 0.5s;
 }
 
 /*--- end effects hover on my skills---*/
