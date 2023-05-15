@@ -168,3 +168,9 @@
             position: relative;
             overflow: hidden;
         }
+
+        .projects-list section nav ul li .project-img {
+            width: 400px;
+            height: 250px;
+            cursor: pointer;
+        }
