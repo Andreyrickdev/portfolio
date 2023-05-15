@@ -149,3 +149,21 @@
 
     /*dark mode end*/
 /*---button change modes---*/
+
+@media (max-width: 800px) {
+    .bg-header {
+        height: 89px;
+    }
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header ul {
+        gap: 10px;
+    }
+
+    .header ul li {
+        padding: 15px;
+    }
+}
