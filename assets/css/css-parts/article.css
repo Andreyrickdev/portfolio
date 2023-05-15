@@ -147,3 +147,8 @@
 }
 
 /*--- start effects hover on my skills---*/
+
+.git-li:hover .fil0git{
+    fill: #ed3238;
+    transition: 0.5s;
+}
