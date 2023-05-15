@@ -254,3 +254,7 @@
         .bg-projects.light .projects-list section header ul li {
             color: #1e1e1f;
         }
+
+        .bg-projects.light .projects-list section header ul li:hover {
+            color: #ed3238;
+        }
