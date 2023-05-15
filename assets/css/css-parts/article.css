@@ -31,3 +31,7 @@
     border-radius: 50%;
     height: auto;
 }
+
+.bg-article .about-me h1 {
+    font-size: 3rem;
+}
