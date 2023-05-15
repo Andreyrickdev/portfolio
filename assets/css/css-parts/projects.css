@@ -174,3 +174,8 @@
             height: 250px;
             cursor: pointer;
         }
+
+        .projects-list section nav ul li .project-img img {
+            object-fit: cover;
+            object-position: top;
+        }
