@@ -58,3 +58,8 @@
     footer section .end-phrase span {
         color: #ed3238;
     }
+
+    footer section .end {
+        grid-column: 1/-1;
+        font-size: 1.2rem;
+    }
