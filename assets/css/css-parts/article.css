@@ -39,3 +39,7 @@
 .bg-article .about-me h1 span {
     color: #ed3238;
 }
+
+.bg-article .about-me p {
+    font-size: 1.2rem;
+}
