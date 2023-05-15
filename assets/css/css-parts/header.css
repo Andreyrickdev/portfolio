@@ -1,1 +1,8 @@
 /*---dark mode start (default)---*/
+
+    .bg-header {
+        background-color: #1e1e1f;
+        position: relative;
+        width: 100%;
+        height: 62px;
+    }
