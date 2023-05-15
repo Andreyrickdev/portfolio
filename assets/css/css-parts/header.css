@@ -22,3 +22,10 @@
         position: fixed;
         z-index: 999;
     }
+
+    .header ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        align-items: center;
+    }
