@@ -211,3 +211,8 @@
             cursor: pointer;
             user-select: none;
         }
+
+        .projects-list section nav ul section .infs-project .skills-box {
+            display: flex;
+            gap: 10px;
+        }
