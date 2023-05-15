@@ -3,3 +3,12 @@
         .bg-projects {
             background-color: #1e1e1f;
         }
+
+        .projects {
+            max-width: 1500px;
+            background-color: #1e1e1f;
+            margin: 0 auto;
+            padding: 40px;
+            display: grid;
+            gap: 40px;
+        }
