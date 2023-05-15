@@ -55,3 +55,8 @@
     .bg-header.light {
         background-color: #E2E2E2;
     }
+
+    .bg-header.light .header {
+        background-color: #E2E2E2;
+        color: #1e1e1f;
+    }
