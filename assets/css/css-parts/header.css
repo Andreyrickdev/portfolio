@@ -106,3 +106,8 @@
     }
 
     /*light mode start*/
+    
+        .toggle.light {
+            background: #E2E2E2;
+            box-shadow: 3px 3px 3px #E2E2E2, -3px -3px 3px #E2E2E2;
+        }
