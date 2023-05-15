@@ -29,3 +29,10 @@
         gap: 20px;
         align-items: center;
     }
+
+    .header ul li {
+        cursor: pointer;
+        font-size: 1.2rem;
+        text-align: center;
+        transition: 0.5s color;
+    }
