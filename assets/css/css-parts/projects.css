@@ -142,3 +142,7 @@
         .projects-list section header ul li:hover {
             color: #ed3238;
         }
+
+        .projects-list section header .hamburger {
+            display: none;
+        }
