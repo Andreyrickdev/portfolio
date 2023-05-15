@@ -152,3 +152,8 @@
     fill: #ed3238;
     transition: 0.5s;
 }
+
+.html-li:hover .fil0html {
+    fill: #ed3238;
+    transition: 0.5s;
+}
