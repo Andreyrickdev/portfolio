@@ -250,3 +250,7 @@
         .bg-projects.light .projects-list h1 {
             color: #1e1e1f;
         }
+
+        .bg-projects.light .projects-list section header ul li {
+            color: #1e1e1f;
+        }
