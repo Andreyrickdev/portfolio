@@ -25,3 +25,9 @@
         gap: 40px 100px;
         align-items: center;
     }
+
+    footer section nav ul {
+        display: grid;
+        justify-content: center;
+        gap: 20px;
+    }
