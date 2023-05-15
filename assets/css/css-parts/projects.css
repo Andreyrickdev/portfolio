@@ -216,3 +216,9 @@
             display: flex;
             gap: 10px;
         }
+
+        .projects-list section nav ul section .infs-project .skills-box p{
+            border: 2px solid #E2E2E2;
+            padding: 3px;
+            user-select: none;
+        }
