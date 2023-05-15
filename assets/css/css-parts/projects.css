@@ -163,3 +163,8 @@
             gap: 20px;
             overflow: auto;
         }
+
+        .projects-list section nav ul li {
+            position: relative;
+            overflow: hidden;
+        }
