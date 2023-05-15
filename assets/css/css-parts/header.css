@@ -133,3 +133,7 @@
             background: #151d2a;
             box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;
         }
+
+        .toggle.dark .bxs-sun {
+            color: #E2E2E2;
+        }
