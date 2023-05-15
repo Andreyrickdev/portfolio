@@ -130,3 +130,18 @@
         font-size: 1.1rem;
     }
 }
+
+@media (max-width: 650px) {
+
+    .bg-article .about-me {
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        justify-items: center;
+    }
+
+    .bg-article .about-me ul {
+        margin: 0 auto;
+    }
+
+}
