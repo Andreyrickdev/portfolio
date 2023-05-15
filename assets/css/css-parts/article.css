@@ -3,3 +3,15 @@
 .bg-article {
     background-color: #1e1e1f;
 }
+
+.bg-article .about-me {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    padding: 40px 0;
+    color: #E2E2E2;
+    align-content: center;
+}
