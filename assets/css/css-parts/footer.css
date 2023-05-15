@@ -54,3 +54,7 @@
     footer section .end-phrase {
         font-size: 1.5rem;
     } 
+
+    footer section .end-phrase span {
+        color: #ed3238;
+    }
