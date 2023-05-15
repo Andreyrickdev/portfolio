@@ -64,3 +64,7 @@
     .bg-header.light .header ul li a {
         color: #151d2a;
     }
+
+    .bg-header .header ul li a:hover {
+        color: #ed3238;
+    }
