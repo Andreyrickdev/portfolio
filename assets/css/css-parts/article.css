@@ -65,3 +65,7 @@
     width: 100%;
     transition: 0.5s background-color;
 }
+
+.bg-article .about-me ul li input:hover {
+    background-color: #ed3238;
+}
