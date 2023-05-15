@@ -97,3 +97,10 @@
 
 /*---dark mode start (default)---*/
     /*---projects-list start - dark mode (default)---*/
+
+        .projects-list {
+            max-width: 1500px;
+            margin: 0 auto;
+            display: grid;
+            gap: 40px;
+        }
