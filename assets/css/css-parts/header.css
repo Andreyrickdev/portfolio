@@ -83,3 +83,10 @@
         /*background: #151d2a;
         box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;*/
     }
+
+    .modes .toggle i {
+        text-align: center;
+        width: 50%;
+        font-size: 20px;
+        z-index: 2;
+    }
