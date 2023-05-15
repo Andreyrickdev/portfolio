@@ -13,3 +13,8 @@
         display: grid;
         gap: 40px;
     }
+
+    footer h1 {
+        font-size: 3rem;
+        color: #E2E2E2;
+    }
