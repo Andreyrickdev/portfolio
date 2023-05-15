@@ -46,3 +46,7 @@
         border: 2px solid #E2E2E2;
         transition: 0.5s background-color;
     }
+
+    footer section nav ul li input:hover {
+        background-color: #ed3238;
+    }
