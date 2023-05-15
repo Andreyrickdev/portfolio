@@ -100,3 +100,7 @@
         border-radius: 2px;
         transition: 1s;
     }
+
+    .modes input {
+        display: none;
+    }
