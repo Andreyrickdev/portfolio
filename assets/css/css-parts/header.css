@@ -36,3 +36,10 @@
         text-align: center;
         transition: 0.5s color;
     }
+
+    .header ul li a {
+        padding: 20px;
+        display: block;
+        color: #fff;
+        transition: 0.5s color;
+    }
