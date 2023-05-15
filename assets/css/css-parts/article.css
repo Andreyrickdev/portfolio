@@ -93,3 +93,9 @@
     .bg-article.light .about-me {
         color: #1e1e1f;
     }
+
+    .bg-article.light .about-me ul li input {
+        color: #1e1e1f;
+        background-color: #E2E2E2;
+        border: 2px solid #1e1e1f;
+    }
