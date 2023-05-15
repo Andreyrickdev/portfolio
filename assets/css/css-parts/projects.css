@@ -195,3 +195,9 @@
         .projects-list section nav ul li section.active {
             bottom: 0;
         }
+
+        .projects-list section nav ul section .infs-project {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
