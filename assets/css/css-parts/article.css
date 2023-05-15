@@ -35,3 +35,7 @@
 .bg-article .about-me h1 {
     font-size: 3rem;
 }
+
+.bg-article .about-me h1 span {
+    color: #ed3238;
+}
