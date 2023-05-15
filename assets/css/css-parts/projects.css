@@ -110,3 +110,7 @@
             font-size: 3rem;
             text-align: center;
         }
+
+        .projects-list h1 span {
+            color: #ed3238;
+        }
