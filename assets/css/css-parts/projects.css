@@ -104,3 +104,9 @@
             display: grid;
             gap: 40px;
         }
+
+        .projects-list h1 {
+            color: #E2E2E2;
+            font-size: 3rem;
+            text-align: center;
+        }
