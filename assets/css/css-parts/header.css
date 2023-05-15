@@ -111,3 +111,7 @@
             background: #E2E2E2;
             box-shadow: 3px 3px 3px #E2E2E2, -3px -3px 3px #E2E2E2;
         }
+
+        .toggle.light .bxs-sun {
+            color: #E2E2E2;
+        }
