@@ -67,3 +67,7 @@
 /*---dark mode end (default)---*/
 
 /*---light mode start---*/
+
+    .bg-footer.light {
+        background-color: #E2E2E2;
+    }
