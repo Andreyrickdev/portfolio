@@ -49,3 +49,7 @@
     flex-wrap: wrap;
     gap: 20px;
 }
+
+.bg-article .about-me .contacts li{
+    flex: 1;
+}
