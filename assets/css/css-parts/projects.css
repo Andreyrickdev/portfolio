@@ -155,3 +155,11 @@
             border-bottom-left-radius: 2px;
             border-bottom-right-radius: 2px;
         }
+
+        .projects-list section nav #all-projects {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            overflow: auto;
+        }
