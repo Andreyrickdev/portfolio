@@ -115,3 +115,7 @@
         .toggle.light .bxs-sun {
             color: #E2E2E2;
         }
+
+        .toggle.light .bxs-moon {
+            color: #151d2a;
+        }
