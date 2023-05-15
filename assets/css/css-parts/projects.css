@@ -243,3 +243,6 @@
 
 /*---light mode start---*/
     /*---projects list start - light mode---*/
+        .bg-projects.light .projects-list section header {
+            background-color: #C4C4C4;
+        }
