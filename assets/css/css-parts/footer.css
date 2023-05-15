@@ -35,3 +35,14 @@
     footer section nav ul li {
         display: inherit;
     }
+
+    footer section nav ul li input {
+        padding: 10px 30px;
+        border-radius: 2px;
+        cursor: pointer;
+        font-size: 1.2rem;
+        color: #E2E2E2;
+        background-color: #1e1e1f;
+        border: 2px solid #E2E2E2;
+        transition: 0.5s background-color;
+    }
