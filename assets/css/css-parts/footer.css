@@ -18,3 +18,10 @@
         font-size: 3rem;
         color: #E2E2E2;
     }
+
+    footer section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px 100px;
+        align-items: center;
+    }
