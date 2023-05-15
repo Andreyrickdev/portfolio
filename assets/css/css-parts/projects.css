@@ -284,3 +284,103 @@
         }
     /*---projects list end - light mode---*/
 /*---light mode end---*/
+
+@media (max-width: 800px) {
+
+    .projects-list section header nav {
+        position: absolute;
+        top: 72px;
+        left: 0;
+        z-index: 2;
+        background-color: #2b2b2c80;
+        width: 100%;
+        height: 0;
+        text-align: center;
+        transition: height 0.5s;
+    }
+
+    .bg-projects.light .projects-list section header nav {
+        background-color: #E2E2E280;
+    }
+    
+    .projects-list section header nav.active {
+        height: 440px;
+    }
+
+    .projects-list section header nav ul {
+        display: block;
+        background-color: #2b2b2c;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        transition: height 1s;
+        height: 0;
+    }
+
+    .bg-projects.light .projects-list section header nav ul {
+        background-color: #C4C4C4;
+    }
+
+    .projects-list section header nav ul.active {
+        height: 240px;
+    }
+
+    .projects-list section header ul li {
+        font-size: 2rem;
+        padding: 20px;
+    }
+
+    .projects-list section header .dad-hamburger {
+        position: absolute;
+        right: 0;
+        padding: 20px;
+        cursor: pointer;
+    }
+
+    .projects-list section header .hamburger {
+        display: block;
+        border-top: 3px solid #E2E2E2;
+        width: 30px;
+        margin-right: 20px;
+        cursor: pointer;
+        right: 10px;
+    }
+
+    .bg-projects.light .projects-list section header .hamburger {
+        border-top: 3px solid #1e1e1f;
+    }
+
+    .projects-list section header .hamburger::before {
+        content: '';
+        display: block;
+        width: 30px;
+        height: 3px;
+        background-color: #E2E2E2;
+        margin-top: 5px;
+    }
+
+    .bg-projects.light .projects-list section header .hamburger::before {
+        background-color: #1e1e1f;
+    }
+
+    .projects-list section header .hamburger::after {
+        content: '';
+        display: block;
+        width: 30px;
+        height: 3px;
+        background-color: #E2E2E2;
+        margin-top: 5px;
+    }
+
+    .bg-projects.light .projects-list section header .hamburger::after {
+        background-color: #1e1e1f;
+    }
+
+    .projects-list section nav ul li .project-img {
+        width: 300px;
+    }
+
+    .projects-list section nav ul li section {
+        bottom: -210px;
+    }
+}
