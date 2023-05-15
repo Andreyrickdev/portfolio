@@ -65,3 +65,20 @@
         }
     /*--- highlights - dark mode end ---*/
 /*---light mode end---*/
+
+@media (max-width: 800px) {
+    
+    .projects ul li div {
+        width: 300px;
+    }
+    
+    .projects h1 {
+        font-size: 2rem;
+    }
+
+    .projects ul li p {
+        width: 25ch;
+        font-size: 1.1rem;
+    }
+
+}
