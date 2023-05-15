@@ -191,3 +191,7 @@
             transition: bottom 1s;
             padding: 0px 10px;
         }
+
+        .projects-list section nav ul li section.active {
+            bottom: 0;
+        }
