@@ -162,3 +162,8 @@
     fill: #ed3238;
     transition: 0.5s;
 }
+
+.js-li:hover .fil1js {
+    fill: #ed3238;
+    transition: 0.5s;
+}
