@@ -60,3 +60,7 @@
         background-color: #E2E2E2;
         color: #1e1e1f;
     }
+
+    .bg-header.light .header ul li a {
+        color: #151d2a;
+    }
