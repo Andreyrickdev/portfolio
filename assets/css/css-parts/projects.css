@@ -246,3 +246,7 @@
         .bg-projects.light .projects-list section header {
             background-color: #C4C4C4;
         }
+
+        .bg-projects.light .projects-list h1 {
+            color: #1e1e1f;
+        }
