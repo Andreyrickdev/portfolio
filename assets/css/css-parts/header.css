@@ -43,3 +43,7 @@
         color: #fff;
         transition: 0.5s color;
     }
+
+    .header ul li a:hover {
+        color: #ed3238;
+    }
