@@ -1,0 +1,1 @@
+const imgOfProject = document.body.getElementsByClassName('project-img');
