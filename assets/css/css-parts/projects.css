@@ -69,6 +69,10 @@
 /*---light mode start---*/
     /*--- highlights - light mode start---*/
 
+        .bg-projects.light {
+            background-color: #E2E2E2;;
+        }
+
 @media (max-width: 800px) {
     
     .projects ul li div {
