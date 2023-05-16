@@ -15,3 +15,12 @@ function scrollToIdOnClick (event) {
 
     scrollToPosition(to);
 }
+
+function scrollToPosition (to) {
+    /*window.scroll({
+        top: to,
+        behavior: 'smooth',
+    });*/
+
+    smoothScrollTo(0, to, 700);
+}
