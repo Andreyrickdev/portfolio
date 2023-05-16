@@ -95,6 +95,10 @@
             border: 2px solid #1e1e1f;
         }
 
+        .bg-projects.light .projects ul li input:hover {
+            background-color: #ed3238;
+        }
+
 @media (max-width: 800px) {
     
     .projects ul li div {
