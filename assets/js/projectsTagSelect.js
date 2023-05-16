@@ -5,3 +5,4 @@ const allProjects = dadAllProjects.getElementsByTagName('li');
 const htmlCssTags = document.getElementsByClassName('h-c');
 const jsTags = document.getElementsByClassName('js');
 const transparentBoxx = document.getElementById('box-of-tagsSkills');
+const skillsBoxx = document.getElementById('tagsSkills');
