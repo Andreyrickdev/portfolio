@@ -73,6 +73,10 @@
             background-color: #E2E2E2;;
         }
 
+        .bg-projects.light .projects {
+            background-color: #E2E2E2;
+        }
+
 @media (max-width: 800px) {
     
     .projects ul li div {
