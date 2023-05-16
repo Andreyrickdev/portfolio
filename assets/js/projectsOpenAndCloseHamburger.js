@@ -1,0 +1,1 @@
+const hamburger = document.getElementsByClassName('dad-hamburger')[0];
