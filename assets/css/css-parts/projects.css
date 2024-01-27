@@ -304,6 +304,10 @@
 
 @media (max-width: 800px) {
 
+    .projects ul li div {
+        width: 300px;
+    }
+
     .projects-list section header nav {
         position: absolute;
         top: 72px;
