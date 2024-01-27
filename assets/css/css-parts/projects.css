@@ -248,8 +248,8 @@
     /*---projects-list end - dark mode (default)---*/
 /*---dark mode end (default)---*/
 
-/*---light mode start---*/
-    /*---projects list start - light mode---*/
+/*---!!!LIGHT MODE!!! start---*/
+    /*---projects list start - !!!LIGHT MODE!!!---*/
         .bg-projects.light .projects-list section header {
             background-color: #C4C4C4;
         }
@@ -289,8 +289,8 @@
         .bg-projects.light .projects-list section nav ul section input:hover {
             background-color: #ed3238;
         }
-    /*---projects list end - light mode---*/
-/*---light mode end---*/
+    /*---projects list end - !!!LIGHT MODE!!!---*/
+/*---!!!LIGHT MODE!!! end---*/
 
 
 /*
