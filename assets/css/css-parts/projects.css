@@ -101,35 +101,6 @@
     /*--- highlights - light mode end---*/
 /*---light mode end---*/
 
-@media (max-width: 800px) {
-    
-    .projects ul li div {
-        width: 300px;
-    }
-    
-    .projects h1 {
-        font-size: 2rem;
-    }
-
-    .projects ul li p {
-        width: 25ch;
-        font-size: 1.1rem;
-    }
-
-}
-
-@media (max-width: 400px) {
-
-    .projects ul li div {
-        width: 200px;
-    }
-
-    .projects ul li p {
-        width:auto;
-    }
-
-}
-
 /*---dark mode start (default)---*/
     /*---projects-list start - dark mode (default)---*/
 
@@ -320,6 +291,16 @@
         }
     /*---projects list end - light mode---*/
 /*---light mode end---*/
+
+
+/*
+
+ @media
+
+
+
+
+*/
 
 @media (max-width: 800px) {
 
