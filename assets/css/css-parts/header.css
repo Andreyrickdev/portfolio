@@ -152,7 +152,7 @@
 
 @media (max-width: 800px) {
     .bg-header {
-        height: 89px;
+        height: 150px;
     }
 
     .header {
@@ -168,14 +168,16 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 470px) {
 
     .bg-header {
-        height: 111px;
+        height: 300px;
     }
 
+}
+
+@media (max-width: 400px) {
     .header ul li {
         flex: 1;
     }
-
 }

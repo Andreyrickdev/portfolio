@@ -225,6 +225,7 @@
             color: #fff;
             transition: bottom 1s;
             padding: 0px 10px;
+            height: 185px;
         }
 
         .projects-list section nav ul li section.active {
