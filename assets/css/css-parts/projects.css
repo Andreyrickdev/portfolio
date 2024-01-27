@@ -308,6 +308,10 @@
         width: 300px;
     }
 
+    .projects h1 {
+        font-size: 2rem;
+    }
+
     .projects-list section header nav {
         position: absolute;
         top: 72px;
