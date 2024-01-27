@@ -1,5 +1,5 @@
-/*---dark mode start (default)---*/
-    /*--- highlights - dark mode start */
+/*---!!!DARK MODE!!! start (default)---*/
+    /*--- highlights - !!!DARK MODE!!! start */
         .bg-projects {
             background-color: #1e1e1f;
         }
@@ -63,8 +63,8 @@
         .projects ul li input:hover {
             background-color: #ed3238;
         }
-    /*--- highlights - dark mode end ---*/
-/*---dark mode end---*/
+    /*--- highlights - !!!DARK MODE!!! end ---*/
+/*---!!!DARK MODE!!! end---*/
 
 /*---light mode start---*/
     /*--- highlights - light mode start---*/
@@ -101,8 +101,8 @@
     /*--- highlights - light mode end---*/
 /*---light mode end---*/
 
-/*---dark mode start (default)---*/
-    /*---projects-list start - dark mode (default)---*/
+/*---!!!DARK MODE!!! start (default)---*/
+    /*---projects-list start - !!!DARK MODE!!! (default)---*/
 
         .projects-list {
             max-width: 1500px;
@@ -245,8 +245,8 @@
         .projects-list section nav ul section input:hover {
             background-color: #ed3238;
         }
-    /*---projects-list end - dark mode (default)---*/
-/*---dark mode end (default)---*/
+    /*---projects-list end - !!!DARK MODE!!! (default)---*/
+/*---!!!DARK MODE!!! end (default)---*/
 
 /*---!!!LIGHT MODE!!! start---*/
     /*---projects list start - !!!LIGHT MODE!!!---*/
