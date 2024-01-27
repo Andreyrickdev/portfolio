@@ -312,6 +312,11 @@
         font-size: 2rem;
     }
 
+    .projects ul li p {
+        width: 25ch;
+        font-size: 1.1rem;
+    }
+
     .projects-list section header nav {
         position: absolute;
         top: 72px;
