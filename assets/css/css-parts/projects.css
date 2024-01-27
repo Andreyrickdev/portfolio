@@ -66,8 +66,8 @@
     /*--- highlights - !!!DARK MODE!!! end ---*/
 /*---!!!DARK MODE!!! end---*/
 
-/*---light mode start---*/
-    /*--- highlights - light mode start---*/
+/*---!!!LIGHT MODE!!! start---*/
+    /*--- highlights - !!!LIGHT MODE!!! start---*/
 
         .bg-projects.light {
             background-color: #E2E2E2;;
@@ -98,8 +98,8 @@
         .bg-projects.light .projects ul li input:hover {
             background-color: #ed3238;
         }
-    /*--- highlights - light mode end---*/
-/*---light mode end---*/
+    /*--- highlights - !!!LIGHT MODE!!! end---*/
+/*---!!!LIGHT MODE!!! end---*/
 
 /*---!!!DARK MODE!!! start (default)---*/
     /*---projects-list start - !!!DARK MODE!!! (default)---*/
