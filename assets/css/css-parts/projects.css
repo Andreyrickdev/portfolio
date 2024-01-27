@@ -421,5 +421,7 @@
         width: 200px;
     }
 
-    
+    .projects ul li p {
+        width:auto;
+    }
 }
