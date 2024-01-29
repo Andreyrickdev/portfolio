@@ -15,3 +15,9 @@ toggle.addEventListener("change", () => {
     projects.className = projects.className == 'bg-projects' ? 'bg-projects light' : 'bg-projects';
     footer.className = footer.className == 'bg-footer' ? 'bg-footer light' : 'bg-footer';
 });
+
+(function () {
+
+    
+
+})();
