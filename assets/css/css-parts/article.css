@@ -164,6 +164,10 @@
     .bg-article .about-me ul li input {
         padding: 10px 20px;
     }
+
+    .skills ul li svg {
+        width: 40px;
+    }
 }
 
 /*--- start effects hover on my skills---*/
