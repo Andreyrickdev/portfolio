@@ -49,3 +49,7 @@ for (let i = 0; i < tagsSkills.length; i++) {
     })
 
 }
+
+(function () {
+
+})();
