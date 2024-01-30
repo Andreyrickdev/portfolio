@@ -460,4 +460,8 @@
         bottom: -200px;
         height: 100%;
     }
+
+    .projects-list section nav ul section input {
+        padding: 10px 20px;
+    } 
 }
