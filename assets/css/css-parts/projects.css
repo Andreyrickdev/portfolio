@@ -456,4 +456,8 @@
         height: 100%;
     }
 
+    .projects-list section nav ul li section {
+        bottom: -200px;
+        height: 100%;
+    }
 }
