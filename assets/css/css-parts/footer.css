@@ -114,6 +114,10 @@
 
 @media (max-width: 400px) {
 
+    footer {
+        gap: 20px;
+    }
+
     footer h1 {
         font-size: 1.7rem;
     }
