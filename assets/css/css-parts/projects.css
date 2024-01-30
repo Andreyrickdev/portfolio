@@ -423,7 +423,7 @@
     }
 
     .projects ul li div {
-        width: 200px;
+        width: 100%;
     }
 
     .projects ul li div img {
@@ -432,6 +432,7 @@
 
     .projects ul li p {
         width:auto;
+        height: auto;
     }
 
     .projects ul li input {
