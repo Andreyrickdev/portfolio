@@ -436,4 +436,8 @@
     .projects ul li p {
         width:auto;
     }
+
+    .projects ul li input {
+        padding: 10px 20px;
+    }
 }
