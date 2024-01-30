@@ -153,6 +153,11 @@
         height: 150px;
     }
 
+    .bg-article .about-me h1 {
+        font-size: 1.7rem;
+    }
+
+    
 }
 
 /*--- start effects hover on my skills---*/
