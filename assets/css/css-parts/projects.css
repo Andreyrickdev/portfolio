@@ -452,6 +452,8 @@
         width: 100%;
     }
 
-
+    .projects-list section nav ul li .project-img > img {
+        height: 100%;
+    }
 
 }
