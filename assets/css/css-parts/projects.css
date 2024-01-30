@@ -409,10 +409,6 @@
     .projects-list section nav ul li .project-img {
         width: 300px;
     }
-
-    .projects-list section nav ul li section {
-        bottom: -210px;
-    }
 }
 
 @media (max-width: 400px) {
@@ -447,8 +443,15 @@
     }
 
 
-    
+
     .projects-list h1 {
         font-size: 1.7rem;
     }
+
+    .projects-list section nav ul li .project-img {
+        width: 100%;
+    }
+
+
+
 }
