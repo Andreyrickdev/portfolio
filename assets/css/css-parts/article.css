@@ -147,7 +147,12 @@
 }
 
 @media (max-width: 400px) {
-    
+
+    .bg-article .me {
+        width: 150px;
+        height: 150px;
+    }
+
 }
 
 /*--- start effects hover on my skills---*/
