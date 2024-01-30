@@ -122,4 +122,8 @@
         font-size: 1.7rem;
     }
 
+    footer section {
+        gap: 20px;
+    }
+
 }
