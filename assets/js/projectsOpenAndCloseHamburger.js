@@ -6,3 +6,7 @@ hamburger.addEventListener('click', () => {
     transparentBox.classList.toggle('active');
     skillsBox.classList.toggle('active');
 })
+
+(function () {
+
+})();
