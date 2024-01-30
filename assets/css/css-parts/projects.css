@@ -429,6 +429,10 @@
         width: 200px;
     }
 
+    .projects ul li div img {
+        height: 200px;
+    }
+
     .projects ul li p {
         width:auto;
     }
