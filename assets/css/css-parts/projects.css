@@ -419,6 +419,7 @@
 
     .projects {
         padding: 20px 40px;
+        gap: 20px;
     }
 
     .projects h1 {
