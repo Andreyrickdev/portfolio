@@ -48,7 +48,7 @@
             height: 132px;
         }
 
-        .projects ul li input {
+        .projects ul li .acessar {
             padding: 10px 30px;
             border-radius: 2px;
             cursor: pointer;
@@ -60,7 +60,7 @@
             transition: 0.5s background-color;
         }
 
-        .projects ul li input:hover {
+        .projects ul li .acessar:hover {
             background-color: #ed3238;
         }
     /*--- highlights - !!!DARK MODE!!! end ---*/
