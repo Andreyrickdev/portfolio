@@ -411,6 +411,15 @@
     }
 }
 
+@media (max-width: 660px) {
+
+    .projects-list section nav ul li section {
+        bottom: -210px;
+        height: 100%;
+    }
+
+}
+
 @media (max-width: 400px) {
 
     .projects {
@@ -454,11 +463,6 @@
     }
 
     .projects-list section nav ul li .project-img > img {
-        height: 100%;
-    }
-
-    .projects-list section nav ul li section {
-        bottom: -210px;
         height: 100%;
     }
 
